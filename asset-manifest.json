@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gahuiyun/static/css/main.073c9b0a.css",
+    "main.js": "/gahuiyun/static/js/main.9503cbb2.js",
+    "static/js/787.ec704a7a.chunk.js": "/gahuiyun/static/js/787.ec704a7a.chunk.js",
+    "static/media/logo.svg": "/gahuiyun/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gahuiyun/index.html",
+    "main.073c9b0a.css.map": "/gahuiyun/static/css/main.073c9b0a.css.map",
+    "main.9503cbb2.js.map": "/gahuiyun/static/js/main.9503cbb2.js.map",
+    "787.ec704a7a.chunk.js.map": "/gahuiyun/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9503cbb2.js"
+  ]
+}
